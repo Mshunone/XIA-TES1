@@ -26,7 +26,7 @@ async function start() {
 let { version, isLatest } = await fetchLatestBaileysVersion();
 const kayla = await makeWaSocket({
 auth: state,
-browser: [`Jadibot Md By (Kayla Bot)`, "Chrome", "1.0.0"],
+browser: [`Jadibot Md By (©Saxia˘Botz)`, "Chrome", "1.0.0"],
 logger: log({ level: "silent" }),
 version,
 })
